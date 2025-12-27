@@ -31,7 +31,14 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+![zener diode](https://github.com/user-attachments/assets/482f5c80-7e6b-4aec-8506-23718e7aabae)
+
 V-I & REGULATION CHARACTERISTICS:
+
+![zener diode 2](https://github.com/user-attachments/assets/891b2534-f967-4f32-93c2-d8517c0fe2c8)
+
+![zener diode 3](https://github.com/user-attachments/assets/9c4d6410-4594-4bd0-a76f-48fccee7149b)
+
 
 PRECAUTIONS:
 
